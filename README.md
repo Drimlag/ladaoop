@@ -5,11 +5,14 @@
 ---
 ### Виконання роботи
 - Результати виконання завдання 1:  
-    1.Створив новий файл зрозширенням ladaopp.ipynb та, та скопіював код програми ![image](https://user-images.githubusercontent.com/111630433/199985129-76ec512e-d3df-4ce0-81bf-05d56d44c255.png) ;
+    1.Створив новий файл зрозширенням ladaopp.ipynb та, та скопіював код програми ![image](https://user-images.githubusercontent.com/111630433/201655830-4572cf93-c123-4d21-8fb9-80b2c9fd7392.png)
+ ;
     
-    ![Програма вивела]![image](https://user-images.githubusercontent.com/111630433/199985276-0e00143e-d0b4-4f30-bd36-74ac244e2692.png) ; 
+    ![Програма вивела]![image](https://user-images.githubusercontent.com/111630433/201655937-9c9f999f-361f-460c-880a-8388cded61ce.png)
+ ; 
     
-    2.Створив новий файл зрозширенням ladaopp.py та, та скопіював код програми ![image](https://user-images.githubusercontent.com/111630433/199985845-263c8b40-9990-41b4-8b63-c574ea040cdc.png) ;
+    2.Створив новий файл зрозширенням ladaopp.py та, та скопіював код програми ![image](https://user-images.githubusercontent.com/111630433/201655570-d9b5f43d-f1ac-44ec-be05-fcfcb95510ba.png)
+ ;
     ![Програма вивела]![image](https://user-images.githubusercontent.com/111630433/199986238-2a9a8116-afb7-4c4a-af70-b8b8283ea5b0.png)
 
 
